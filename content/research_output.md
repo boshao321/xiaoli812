@@ -15,7 +15,7 @@
 
 ---
 
-### Co-Author (3 Papers) | 沟通作者（3篇）
+### Co-Author (3 Papers) | 共同作者（3篇）
 1. **A Data-Driven Distributionally Robust Optimization Approach for the Core Acquisition Problem**  
    *European Journal of Operational Research, 2024*  
    用于核心获取问题的数据驱动分布稳健优化方法（欧洲运筹学杂志，2024）
