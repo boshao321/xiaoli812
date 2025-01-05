@@ -1,0 +1,37 @@
+baseurl: /
+languageCode: en-us
+title: Xiaoli Su
+theme: "hugo-ivy"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: ↩
+
+permalinks:
+  note: /note/:year/:month/:day/:slug/
+  post: /post/:year/:month/:day/:slug/
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Research output"
+      url: "/research_output/"
+      weight: 3
+
+params:
+  description: "Welcome to Xiaoli’s Homepage!"
+  footer: "&copy; [Xiaoli Su](https://xiaoli.netlify.app) 2025 | [ResearchGate](https://www.researchgate.net/profile/Xiao-Li-Su)"
+  highlightjsLang: ["latex"]
+  highlightjsTheme: "github"
+  highlightjsVersion: "11.7.0"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
