@@ -8,9 +8,9 @@ I was born in **Quanzhou**, Fujian Province, China, a city known for its histori
 
 Currently, I am pursuing a **joint PhD program in Management** at [emlyon Business School](https://em-lyon.com/en) and [Fuzhou University](https://www.fzu.edu.cn/), under the supervision of [Professor Yeming Gong](https://em-lyon.com/en/yeming-gong/briefly) and [Professor Ajay Kumar](https://em-lyon.com/en/ajay-kumar/briefly). Additionally, I am a **PhD candidate in Management** at [Fuzhou University](https://www.fzu.edu.cn/), under the guidance of [Professor Chenghu Yang](https://scholar.google.com/citations?user=0yP6wKUAAAAJ&hl=en&oi=ao) and [Professor Xin Ma](https://research.monash.edu/en/persons/xin-ma), focusing on supply chain management, inventory management, and data-driven optimization.
 
-我出生于中国福建省泉州市，这座城市因其在古代海上丝绸之路中的重要地位而闻名。我获得了**[福建理工大学](https://www.fjut.edu.cn/)**的**交通运输学学士学位**，在那里我为学术生涯奠定了坚实的基础。随后，我在**[福州大学](https://www.fzu.edu.cn/)**完成了**管理学硕士学位**，并在多位优秀导师的指导下深入开展研究。
+我出生于中国福建省泉州市，这座城市因其在古代海上丝绸之路中的重要地位而闻名。我获得了[福建理工大学](https://www.fjut.edu.cn/)的交通运输学学士学位，在那里我为学术生涯奠定了坚实的基础。随后，我在[福州大学](https://www.fzu.edu.cn/)完成了管理学硕士学位，并在多位优秀导师的指导下深入开展研究。
 
-目前，我正在**[法国里昂商学院（emlyon）](https://em-lyon.com/en)**和**[福州大学](https://www.fzu.edu.cn/)**联合培养的**管理博士项目**中深造，由**[龚业明教授](https://em-lyon.com/en/yeming-gong/briefly)**和**[Ajay Kumar教授](https://em-lyon.com/en/ajay-kumar/briefly)**联合指导。同时，我也是**[福州大学](https://www.fzu.edu.cn/)**管理学博士候选人，由**[阳成虎教授](https://scholar.google.com/citations?user=0yP6wKUAAAAJ&hl=en&oi=ao)**和**[马鑫教授](https://research.monash.edu/en/persons/xin-ma)**联合指导。我的研究主要集中在供应链管理、库存管理中的数据驱动优化与决策领域。
+目前，我正在[法国里昂商学院（emlyon）](https://em-lyon.com/en)和[福州大学](https://www.fzu.edu.cn/)联合培养的管理博士项目中深造，由[龚业明教授](https://em-lyon.com/en/yeming-gong/briefly)和[Ajay Kumar教授](https://em-lyon.com/en/ajay-kumar/briefly)联合指导。同时，我也是[福州大学](https://www.fzu.edu.cn/)管理学博士候选人，由[阳成虎教授](https://scholar.google.com/citations?user=0yP6wKUAAAAJ&hl=en&oi=ao)和[马鑫教授](https://research.monash.edu/en/persons/xin-ma)联合指导。我的研究主要集中在供应链管理、库存管理中的数据驱动优化与决策领域。
 
 ---
 
